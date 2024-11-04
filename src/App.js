@@ -12,7 +12,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. This confirms correspondence
+          Edit <code>src/App.js</code> and save to reload. This confirms correspondence. WEI
         </p>
         <a
           className="App-link"
